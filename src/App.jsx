@@ -1,4 +1,5 @@
 import { Navbar, Container, Nav, Card, } from 'react-bootstrap';
+import './App.css';
 
 const App = () => {
   return (
